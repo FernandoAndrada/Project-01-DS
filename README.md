@@ -1,13 +1,18 @@
 # Project 01 -DS
 ## Houses in Houses DS
 
+
+![image](https://user-images.githubusercontent.com/102738744/177419917-68dd968e-bfc5-414c-b687-bf8e8dc92663.png)
+
+
 ### 1 - Questão de negócio.
+
 Encontrar as melhores oportunidades de compra de imóveis do portfólio 
 da House Rocket.
 
-O time do negócio não consegue tomar boas decisões 
-de compra sem analisar os dados.
-O portfólio é muito grande, muito tempo para fazer o trabalho manualmente.
+Visando ajudar o CEO em suas decisões de compra e venda dos imóveis dispostos neste portfólio, criamos algumas ferramentas para aprimorar sua tomada de decisões.
+
+
 
 
 ### 2 - Premissas de negócio.
